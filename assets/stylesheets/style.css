@@ -4,6 +4,12 @@ body {
     color: white;
     font-weight:500;
     line-height: 1.2rem;
+    
+    background-repeat: no-repeat;
+    background: rgba(0, 0, 0, 0.3) url(/assets/images/leaves-8113-cropped.png);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: center;
 }
 a {
     color: white;
